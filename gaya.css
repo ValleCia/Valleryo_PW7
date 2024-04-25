@@ -1,0 +1,53 @@
+header p{
+    color: brown;
+}
+h1{
+    color: cornflowerblue;
+}
+img{
+    width: 200px;
+}
+p.biru{
+    color: blue;
+    background-color: gold;
+    width: 225px;
+}
+article.Ampat{
+    background-color: maroon;
+    color: aliceblue;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    width: 400px;
+    height: 300px;
+}
+h3.satu{
+    color: cyan;
+    background-color: rgb(5, 53, 8);
+    width: 225px;
+}
+
+h3.dua{
+    color: darkgoldenrod;
+    background-color: rgb(99, 14, 156);
+    width: 225px;
+}
+article.Toba{
+    background-color: rgb(23, 131, 9);
+    color: rgb(94, 31, 52);
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    width: 400px;
+    height: 300px;
+}
+p.merah{
+    color: red;
+    background-color: gold;
+    width: 225px;
+}
+span{
+    color: greenyellow;
+    background-color: rgb(150, 59, 7);
+    width: 225px;
+}
